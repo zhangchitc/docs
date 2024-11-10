@@ -17,7 +17,7 @@ Each subgraph has a dedicated endpoint for querying data, as well as a page on [
 
 ##### V3
 
-- Explorer Page: https://thegraph.com/explorer/subgraph/uniswap/uniswap-v3
+- Explorer Page: https://thegraph.com/explorer/subgraphs/5zvR82QoaXYFyDEKLZ9t6v9adgnptxYpKpSbxtgVENFV?view=Query&chain=arbitrum-one
 - Graphql Endpoint: https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v3
 - Code: https://github.com/Uniswap/uniswap-v3-subgraph
 
@@ -29,7 +29,7 @@ Each subgraph has a dedicated endpoint for querying data, as well as a page on [
 
 ##### V2
 
-- Explorer Page: https://thegraph.com/explorer/subgraph/ianlapham/uniswapv2
+- Explorer Page: https://thegraph.com/explorer/subgraphs/EYCKATKGBKLWvSfwvBjzfCBmGwYNdVkduYXVivCsLRFu?view=Query&chain=arbitrum-one
 - Graphql Endpoint: https://api.thegraph.com/subgraphs/name/ianlapham/uniswapv2
 - Code: https://github.com/Uniswap/uniswap-v2-subgraph
 
